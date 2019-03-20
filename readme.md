@@ -1,3 +1,8 @@
+Next:
+  - textures?
+  - gameplay/boss mechanics
+  - net-code
+
 Ultimate:
 - Single player
 - Multiplayer
